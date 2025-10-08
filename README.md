@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Madhu 👋</h1>
+<h1 align="center">Hi there, I'm Madhu Sree Nallamsetti👋</h1>
 
 <p align="center">
   🎓 B.Tech Student | 💻 Learning DSA & SQL | 🚀 Aspiring Software Developer
@@ -49,7 +49,7 @@
 ### 💬 Connect With Me  
 <p align="left">
   <a href="mailto:madhusreenallamsetti@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/madhu-sree-nallamsetti"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/madhu-sree-nallamsetti-71816b333"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
