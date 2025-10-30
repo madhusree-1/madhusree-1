@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Madhu 👋</h1>
+<h1 align="center">Hi there, I'm Madhu Sree Nallamsetti 👋</h1>
 
 <p align="center">
   🎓 B.Tech Student | 💻 Learning DSA & SQL | 🚀 Aspiring Software Developer
