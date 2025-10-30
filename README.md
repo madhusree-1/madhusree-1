@@ -23,14 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhusree-1&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhusree-1&theme=tokyonight" />
-</p>
-
----
-
 ### 🚀 Featured Repositories  
 <p align="center">
   <a href="https://github.com/madhusree-1/coding">
