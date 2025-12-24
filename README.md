@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Madhu Sree Nallamsetti 👋</h1>
 
 <p align="center">
-  🎓 B.Tech Student | 💻 C++ & DSA Learner | 🗄️ SQL Beginner | 🚀 Aspiring Software Developer
+  🎓 B.Tech Student | 💻 C++ & DSA Learner | 🗄️ SQL | 🚀 Aspiring Software Developer
 </p>
 
 ---
