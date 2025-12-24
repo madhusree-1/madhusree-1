@@ -37,22 +37,6 @@
 
 ---
 
-### 🚀 Featured Repositories  
-
-<p align="center">
-  <a href="https://github.com/madhusree-1/coding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhusree-1&repo=coding&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/madhusree-1/dsa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhusree-1&repo=dsa&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/madhusree-1/cpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhusree-1&repo=cpp&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 💬 Connect With Me  
 
 <p align="left">
